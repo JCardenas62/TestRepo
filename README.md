@@ -1,21 +1,9 @@
-# Scientific Method A
+#Portfolio
 
-# Table of Contents
+##Classes:
 
-# Unit Overview:
+###CSCI 70300: Data Structure High Level Language Lecture 
 
-## Description:
+###CSCI 70900: Programming High Level Language Lecture
 
-### Length:
-
-## Assessments:
-
-### Initial:
-
-### Formative:
-
-# Vocabulary Words:
-
-# Lesson Plan Database
-
-[Lesson Plans](https://www.notion.so/201ad5cbe66849b5b9ec86e2f22b1f7f)
+###SEDC 71900: Methods 1
