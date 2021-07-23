@@ -1,7 +1,6 @@
 # Portfolio
-
-## Classes:
 ***
+## *** Classes:
 In the summer of 2021, we are taking 3 classes. These classes are: 
 
 ### 1. CSCI 70300: Data Structure High Level Language Lecture 
