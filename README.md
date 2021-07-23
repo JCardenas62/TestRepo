@@ -16,7 +16,7 @@ In the summer of 2021, we are taking 3 classes. These classes are:
 ![alt text](https://cdn.worldvectorlogo.com/logos/java.svg)
 
 - Here is a piece of code we did in class
-- '''// Brian Mueller, Julian Irimina, Jovani Cardenas
+- '// Brian Mueller, Julian Irimina, Jovani Cardenas
 
 /*
 PSEUDOCODE:
@@ -85,7 +85,7 @@ class Nim {
     public static int compNum(){
         return (int) (Math.random()*3 + 1);
     }
-}'''
+}'
 
 
 ### 3. SEDC 71900: Methods 1
