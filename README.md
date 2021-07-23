@@ -1,7 +1,7 @@
+***
 # Portfolio
 ***
 
-***
 ## Classes:
 In the summer of 2021, we are taking 3 classes. These classes are: 
 
