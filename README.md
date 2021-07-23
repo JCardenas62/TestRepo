@@ -91,12 +91,12 @@ class Nim {
 
 ### 3. SEDC 71900: Methods 1
 
-| Assignment Name | # | Date Pushed |
-|:---------------:|-------:|:-------:|
-| [01_lesson](https://github.com/hunter-teacher-cert/work_csci70900-JCardenas62/blob/master/meth1/01_lesson)| 1|  07/13/2021|
-|[02_livecode](https://github.com/hunter-teacher-cert/work_csci70900-JCardenas62/blob/master/meth1/02_livecode)| 2| 07/14/2021|
-|[03_IntroNetLogo](https://github.com/hunter-teacher-cert/work_csci70900-JCardenas62/blob/master/meth1/03_IntroNetLogo)| 3| 07/19/2021|
-|[06_unplugged](https://github.com/hunter-teacher-cert/work_csci70900-JCardenas62/blob/master/meth1/06_unplugged)| 4| 07/20/2021|
+|#| Assignment Name | Date Pushed |
+|--:|:---------------:|:-------:|
+|1|[01_lesson](https://github.com/hunter-teacher-cert/work_csci70900-JCardenas62/blob/master/meth1/01_lesson)| 07/13/2021|
+|2|[02_livecode](https://github.com/hunter-teacher-cert/work_csci70900-JCardenas62/blob/master/meth1/02_livecode)| 07/14/2021|
+|3|[03_IntroNetLogo](https://github.com/hunter-teacher-cert/work_csci70900-JCardenas62/blob/master/meth1/03_IntroNetLogo)| 07/19/2021|
+|4|[06_unplugged](https://github.com/hunter-teacher-cert/work_csci70900-JCardenas62/blob/master/meth1/06_unplugged)| 07/20/2021|
 
 
 
