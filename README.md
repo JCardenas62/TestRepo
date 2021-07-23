@@ -8,7 +8,7 @@ In the summer of 2021, we are taking 3 classes. These classes are:
 
 
 ### 2. CSCI 70900: Programming High Level Language Lecture
--This is the programming language we're learning.
+- This is the programming language we're learning.
 ![alt text](https://cdn.worldvectorlogo.com/logos/java.svg)
 
 
