@@ -15,8 +15,7 @@ In the summer of 2021, we are taking 3 classes. These classes are:
 - This is the programming language we're learning.
 ![alt text](https://cdn.worldvectorlogo.com/logos/java.svg)
 
-- Here is a piece of code we did in class
-- 
+- Here is a piece of code we did in class:
 ```
 // Brian Mueller, Julian Irimina, Jovani Cardenas
 
