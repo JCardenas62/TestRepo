@@ -16,6 +16,7 @@ In the summer of 2021, we are taking 3 classes. These classes are:
 ![alt text](https://cdn.worldvectorlogo.com/logos/java.svg)
 
 - Here is a piece of code we did in class:
+
 ``` java
 // Brian Mueller, Julian Irimina, Jovani Cardenas
 
